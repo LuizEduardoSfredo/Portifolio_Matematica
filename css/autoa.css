@@ -1,0 +1,46 @@
+
+h1 {
+    text-align: center;
+    color: White;
+    background-image: url(../imagens/lousa.jpg);
+    padding-bottom: 50px;
+    padding-top: 50px;
+    font-size: 60px;
+
+}
+
+.volt{
+    height: 40px;
+    width: 40px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    border-right: 3px solid black;
+    border-top: 3px solid black;
+    border-top-right-radius: 20px;
+    
+}
+
+.prox{
+    height: 40px;
+    width: 40px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    border-left: 3px solid black;
+    border-top: 3px solid black;
+    border-top-left-radius: 20px;
+
+}
+
+.intro {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.hide {
+    height: 30px;
+    width: 5100px;
+    align-content: center;
+}

@@ -1,0 +1,54 @@
+body{
+    background-color: #e8f2ff;   
+}
+
+h1 {
+    text-align: center;
+    color: White;
+    background-image: url(../imagens/lousa.jpg);
+    padding-bottom: 50px;
+    padding-top: 50px;
+    font-size: 60px;
+
+}
+
+h2 {
+    padding-top: 20px;
+    
+}
+
+#introducao{
+    padding-top: 50px;
+    text-align: center;
+    
+}
+
+.intro {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.cont{
+    background-image: linear-gradient(to right, #009b0c, #00ff00);
+    color: White;
+    text-shadow: #000 2px 3px 2px;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 20px;
+    
+    
+}
+
+.link {
+    text-align: center;
+    
+}
+
+img {
+    height: 100px;
+    width: 100px; 
+    
+    
+}

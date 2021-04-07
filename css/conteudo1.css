@@ -1,0 +1,91 @@
+
+
+body{
+    background-color: #e8f2ff;   
+}
+
+h1 {
+    text-align: center;
+    color: White;
+    background-image: url(../imagens/lousa.jpg);
+    padding-bottom: 50px;
+    padding-top: 50px;
+    font-size: 60px;
+
+}
+
+.intro {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.cont{
+    background-image: linear-gradient(to right, #00489b, #0093ff);
+    color: White;
+    text-shadow: #000 2px 3px 2px;
+    font-size: 30px;
+    padding-bottom: 20px;
+    
+    
+}
+
+.content{
+    font-size: 19px;
+}
+
+img{
+    height: 350px;
+    width: 700px;
+    
+    
+}
+
+.volt{
+    height: 40px;
+    width: 40px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    border-right: 3px solid black;
+    border-top: 3px solid black;
+    border-top-right-radius: 20px;
+    
+}
+
+.prox{
+    height: 40px;
+    width: 40px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    border-left: 3px solid black;
+    border-top: 3px solid black;
+    border-top-left-radius: 20px;
+
+}
+
+#atividade{
+   border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border-radius: 20px;
+    padding-bottom: 5px;
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
